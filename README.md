@@ -15,3 +15,7 @@
 ## License
 
 Open Source, MIT License, see "LICENSE" file.
+
+## Video Inspiration
+
+Props to Elijah Manor for his video [Bootstrap a React App with Parcel](https://www.youtube.com/watch?v=ybjmUgKW3vU) which inspired this starter.
