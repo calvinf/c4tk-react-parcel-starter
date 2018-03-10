@@ -14,7 +14,7 @@
 
 ## License
 
-Open Source, MIT License, see "LICENSE" file.
+Public domain, unlicensed software, see LICENSE file.
 
 ## Video Inspiration
 
