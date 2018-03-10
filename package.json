@@ -2,11 +2,12 @@
   "name": "c4tk-react-parcel-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "unlicense",
   "devDependencies": {
     "parcel-bundler": "^1.6.2"
   },
   "dependencies": {
+    "node-sass": "^4.7.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
