@@ -15,6 +15,12 @@
 * `assets/hello.js` contains a starting point for your [React](https://reactjs.org/) app
 * `assets/hello.scss` contains a starting point for your styles using [SCSS (Sass)](http://sass-lang.com/).
 
+## Running
+
+* Dev: `yarn start` -- Parcel supports "Hot Module Reloading" so you can save an update, open the browser, and it will automatically update
+* Build: `yarn build` -- generate the "production" build
+* Serve: `yarn serve` -- serves the "production" build
+
 ## License
 
 Public domain, unlicensed software, see LICENSE file.
