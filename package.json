@@ -9,11 +9,15 @@
   "dependencies": {
     "node-sass": "^4.7.2",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "snyk": "^1.83.0"
   },
   "scripts": {
     "start": "npx parcel index.html",
     "build": "npx parcel build index.html --public-url ./",
-    "serve": "npx serve ./dist/"
-  }
+    "serve": "npx serve ./dist/",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
